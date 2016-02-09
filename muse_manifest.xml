@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.quasr.ca" resolutions="1x" timestamp="1446589527175">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.quasr.ca" resolutions="1x" timestamp="1454984011671">
   <folder name="css">
-    <file name="site_global.css" crc="220348901"/>
+    <file name="site_global.css" crc="3886241572"/>
     <file name="master_a-master.css" crc="3806464859" ref="sponsorship:design-payload:about-competitions:contact:design-aerodynamics:about-members:design-recovery---tracking:index:design-structural:design-avionics"/>
-    <file name="sponsorship.css" crc="3827313108" ref="sponsorship"/>
+    <file name="sponsorship.css" crc="218057860" ref="sponsorship"/>
     <file name="design-payload.css" crc="4005405184" ref="design-payload"/>
-    <file name="about-competitions.css" crc="3988653109" ref="about-competitions"/>
+    <file name="about-competitions.css" crc="423120064" ref="about-competitions"/>
     <file name="contact.css" crc="263170900" ref="contact"/>
     <file name="design-aerodynamics.css" crc="122239626" ref="design-aerodynamics"/>
     <file name="about-members.css" crc="3892563033" ref="about-members"/>
@@ -15,12 +15,13 @@
   </folder>
   <folder name="assets">
     <file name="quasr-wide-logo-3.tif" crc="3802154320" seo="true" mt="1446583589000"/>
+    <file name="20160127---sponsorship_package-2015_2016.pdf" crc="46951676" seo="true" mt="1453957175000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
     <file name="museutils.js" crc="183364071" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
-    <file name="pie.js" crc="3827607177" ref="index:sponsorship"/>
+    <file name="pie.js" crc="3827607177" ref="index:sponsorship:about-competitions"/>
     <file name="webpro.js" crc="3803554875" ref="index:about-competitions"/>
     <file name="musewpslideshow.js" crc="242596657" ref="index:about-competitions"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="index:about-competitions"/>
@@ -29,8 +30,8 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="34215772" ref="index"/>
-    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="a-master-favicon.ico" crc="34215772" ref="index:about-competitions:sponsorship"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:about-competitions:sponsorship"/>
     <file name="10420292_1458562624459144_1733273082128076993_n.jpg" crc="3979750399" seo="true" ref="index:about-competitions"/>
     <file name="blank.gif" crc="4208392903" ref="index:about-competitions"/>
     <file name="11009151_1459528681029205_1832741399990560456_n.jpg" crc="4077912438" seo="true" ref="index:about-competitions"/>
@@ -99,17 +100,18 @@
     <file name="pasted image 500x3042.jpg" crc="3832651982" seo="true" ref="design-payload"/>
     <file name="pasted image 500x3043.jpg" crc="3832651982" seo="true" ref="design-aerodynamics"/>
     <file name="pasted image 500x3044.jpg" crc="3832651982" seo="true" ref="design-structural"/>
-    <file name="pasted image 500x3045.jpg" crc="3832651982" seo="true" ref="sponsorship"/>
     <file name="quasr wide logo 3 (no bg).jpg" crc="4160011343" seo="true" ref="contact"/>
+    <file name="800px-solidworks_logosvg.png" crc="386596094" seo="true" ref="sponsorship"/>
+    <file name="ansys-logo.png" crc="409586520" seo="true" ref="sponsorship"/>
   </folder>
   <file name="index.html" crc="387545722" seo="true" mt="1446585216644" redirect="true"/>
-  <file name="about-competitions.html" crc="269548388" seo="true" mt="1446585216644" redirect="true"/>
-  <file name="about-members.html" crc="389808214" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="about-competitions.html" crc="62779067" seo="true" mt="1452037800269" redirect="true"/>
+  <file name="about-members.html" crc="225744037" seo="true" mt="1454983656842" redirect="true"/>
   <file name="design-avionics.html" crc="3877889484" seo="true" mt="1446585216644" redirect="true"/>
   <file name="design-payload.html" crc="3818901000" seo="true" mt="1446585216644" redirect="true"/>
   <file name="design-aerodynamics.html" crc="4277339587" seo="true" mt="1446585216645" redirect="true"/>
   <file name="design-structural.html" crc="132281118" seo="true" mt="1446585216644" redirect="true"/>
-  <file name="sponsorship.html" crc="3884128600" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="sponsorship.html" crc="115739591" seo="true" mt="1454984002551" redirect="true"/>
   <file name="contact.html" crc="321048875" seo="true" mt="1446585216644" redirect="true"/>
   <file name="design-recovery---tracking.html" crc="4140335862" seo="true" mt="1446585805286" redirect="true"/>
 </manifest>
