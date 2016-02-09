@@ -1,0 +1,115 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.quasr.ca" resolutions="1x" timestamp="1446589527175">
+  <folder name="css">
+    <file name="site_global.css" crc="220348901"/>
+    <file name="master_a-master.css" crc="3806464859" ref="sponsorship:design-payload:about-competitions:contact:design-aerodynamics:about-members:design-recovery---tracking:index:design-structural:design-avionics"/>
+    <file name="sponsorship.css" crc="3827313108" ref="sponsorship"/>
+    <file name="design-payload.css" crc="4005405184" ref="design-payload"/>
+    <file name="about-competitions.css" crc="3988653109" ref="about-competitions"/>
+    <file name="contact.css" crc="263170900" ref="contact"/>
+    <file name="design-aerodynamics.css" crc="122239626" ref="design-aerodynamics"/>
+    <file name="about-members.css" crc="3892563033" ref="about-members"/>
+    <file name="design-recovery---tracking.css" crc="116292544" ref="design-recovery---tracking"/>
+    <file name="index.css" crc="367223100" ref="index"/>
+    <file name="design-structural.css" crc="287631155" ref="design-structural"/>
+    <file name="design-avionics.css" crc="3777592560" ref="design-avionics"/>
+  </folder>
+  <folder name="assets">
+    <file name="quasr-wide-logo-3.tif" crc="3802154320" seo="true" mt="1446583589000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="pie.js" crc="3827607177" ref="index:sponsorship"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about-competitions"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:about-competitions"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:about-competitions"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:about-competitions"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="34215772" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="10420292_1458562624459144_1733273082128076993_n.jpg" crc="3979750399" seo="true" ref="index:about-competitions"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-competitions"/>
+    <file name="11009151_1459528681029205_1832741399990560456_n.jpg" crc="4077912438" seo="true" ref="index:about-competitions"/>
+    <file name="11329741_1458562401125833_6386238289512924813_n659x494.jpg" crc="4074962001" seo="true" ref="index"/>
+    <file name="11537488_998214970208869_6137059247024120521_o.jpg" crc="275974351" seo="true" ref="index"/>
+    <file name="11667345_1459571204358286_1025610689794977377_n.jpg" crc="4011882679" seo="true" ref="index:about-competitions"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about-competitions"/>
+    <file name="youtube-logo.jpg" crc="332891614" seo="true" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="facebook-icon.png" crc="494612760" seo="true" ref="index:about-competitions:about-members:design-avionics:design-payload:design-aerodynamics:design-structural:sponsorship:contact:design-recovery---tracking"/>
+    <file name="pano_20150624_174704-crop-u4572.jpg" crc="3902772633" ref="index"/>
+    <file name="11537488_998214970208869_6137059247024120521_o-crop-u3972.jpg" crc="4206378943" ref="about-competitions"/>
+    <file name="11659442_1459528367695903_8875098750140676752_n.jpg" crc="243004131" seo="true" ref="about-competitions"/>
+    <file name="11329741_1458562401125833_6386238289512924813_n.jpg" crc="4074962001" seo="true" ref="about-competitions"/>
+    <file name="1514957_1459528457695894_7682714161734663156_n.jpg" crc="74623331" seo="true" ref="about-competitions"/>
+    <file name="11412126_1459528274362579_3480720169267687515_n-crop-u4747.jpg" crc="3767232315" ref="about-competitions"/>
+    <file name="11698547_1459570947691645_2921521046212747660_n.jpg" crc="4143157779" seo="true" ref="about-competitions"/>
+    <file name="10402940_1459570964358310_3814135483512869893_n-crop-u4761.jpg" crc="439438126" ref="about-competitions"/>
+    <file name="11707392_1459570921024981_7191762586914913228_n-crop-u4743.jpg" crc="304001814" ref="about-competitions"/>
+    <file name="11061965_1459570971024976_1429907539001524239_n-crop-u4737.jpg" crc="4154048413" ref="about-competitions"/>
+    <file name="988568_1459571001024973_4940641476575696807_n-crop-u4725.jpg" crc="4152658796" ref="about-competitions"/>
+    <file name="11707499_1459570974358309_2238360808305970069_n-crop-u4717.jpg" crc="378363856" ref="about-competitions"/>
+    <file name="11403041_1459571031024970_6410455921176364604_n-crop-u4763.jpg" crc="319795271" ref="about-competitions"/>
+    <file name="10403213_1459571024358304_6047019143600933954_n-crop-u4727.jpg" crc="103295129" ref="about-competitions"/>
+    <file name="11193270_1459570897691650_1305105781431417761_n-crop-u4753.jpg" crc="279784689" ref="about-competitions"/>
+    <file name="11217535_1459570864358320_1094077619563289247_n.jpg" crc="276540839" seo="true" ref="about-competitions"/>
+    <file name="10988512_1459570861024987_2246779259924743491_n-crop-u4739.jpg" crc="252073285" ref="about-competitions"/>
+    <file name="10482590_1459571051024968_951587833134187724_n.jpg" crc="4211750909" seo="true" ref="about-competitions"/>
+    <file name="11265447_1459571107691629_6226038668542577212_n.jpg" crc="4226002648" seo="true" ref="about-competitions"/>
+    <file name="11011479_1459571141024959_3102656019484800284_n-crop-u4719.jpg" crc="170498991" ref="about-competitions"/>
+    <file name="10930851_1459571207691619_4749449106320071342_n-crop-u4721.jpg" crc="3940917127" ref="about-competitions"/>
+    <file name="11541036_1459571154358291_7708984901288892624_n.jpg" crc="4250260387" seo="true" ref="about-competitions"/>
+    <file name="11665694_1459571234358283_1504809686598244069_n.jpg" crc="4074753219" seo="true" ref="about-competitions"/>
+    <file name="11692773_1459528474362559_7693564661864436568_n.jpg" crc="26842961" seo="true" ref="about-competitions"/>
+    <file name="11659442_1459528367695903_8875098750140676752_n61x45.jpg" crc="4027588439" seo="true" ref="about-competitions"/>
+    <file name="11329741_1458562401125833_6386238289512924813_n60x45.jpg" crc="4046759888" seo="true" ref="about-competitions"/>
+    <file name="1514957_1459528457695894_7682714161734663156_n-crop-u4817.jpg" crc="4234343698" ref="about-competitions"/>
+    <file name="11412126_1459528274362579_3480720169267687515_n-crop-u4785.jpg" crc="126908641" ref="about-competitions"/>
+    <file name="11698547_1459570947691645_2921521046212747660_n61x45.jpg" crc="263848468" seo="true" ref="about-competitions"/>
+    <file name="10402940_1459570964358310_3814135483512869893_n-crop-u4805.jpg" crc="4189262202" ref="about-competitions"/>
+    <file name="11707392_1459570921024981_7191762586914913228_n-crop-u4791.jpg" crc="479092482" ref="about-competitions"/>
+    <file name="11061965_1459570971024976_1429907539001524239_n-crop-u4799.jpg" crc="3895870520" ref="about-competitions"/>
+    <file name="988568_1459571001024973_4940641476575696807_n-crop-u4811.jpg" crc="4169384284" ref="about-competitions"/>
+    <file name="11707499_1459570974358309_2238360808305970069_n-crop-u4777.jpg" crc="3898948852" ref="about-competitions"/>
+    <file name="11403041_1459571031024970_6410455921176364604_n-crop-u4781.jpg" crc="3889327923" ref="about-competitions"/>
+    <file name="10403213_1459571024358304_6047019143600933954_n-crop-u4783.jpg" crc="3810918049" ref="about-competitions"/>
+    <file name="11193270_1459570897691650_1305105781431417761_n-crop-u4773.jpg" crc="35312581" ref="about-competitions"/>
+    <file name="11217535_1459570864358320_1094077619563289247_n-crop-u4803.jpg" crc="239391161" ref="about-competitions"/>
+    <file name="10988512_1459570861024987_2246779259924743491_n-crop-u4793.jpg" crc="491365903" ref="about-competitions"/>
+    <file name="10482590_1459571051024968_951587833134187724_n-crop-u4807.jpg" crc="125774034" ref="about-competitions"/>
+    <file name="11265447_1459571107691629_6226038668542577212_n-crop-u4787.jpg" crc="3996510410" ref="about-competitions"/>
+    <file name="11011479_1459571141024959_3102656019484800284_n-crop-u4789.jpg" crc="3835080919" ref="about-competitions"/>
+    <file name="10930851_1459571207691619_4749449106320071342_n-crop-u4779.jpg" crc="4160030902" ref="about-competitions"/>
+    <file name="11541036_1459571154358291_7708984901288892624_n-crop-u4813.jpg" crc="200013857" ref="about-competitions"/>
+    <file name="11009151_1459528681029205_1832741399990560456_n-crop-u4801.jpg" crc="3927694668" ref="about-competitions"/>
+    <file name="11665694_1459571234358283_1504809686598244069_n-crop-u4771.jpg" crc="4078093775" ref="about-competitions"/>
+    <file name="11692773_1459528474362559_7693564661864436568_n-crop-u4809.jpg" crc="369955236" ref="about-competitions"/>
+    <file name="11667345_1459571204358286_1025610689794977377_n-crop-u4795.jpg" crc="3848241120" ref="about-competitions"/>
+    <file name="pasted image 500x625.jpg" crc="4244505187" seo="true" ref="about-members"/>
+    <file name="business bust (720x900).jpg" crc="425501695" seo="true" ref="about-members"/>
+    <file name="pasted image 500x6252.jpg" crc="37940143" seo="true" ref="about-members"/>
+    <file name="pasted image 500x6253.jpg" crc="167325897" seo="true" ref="about-members"/>
+    <file name="pasted image 200x250.jpg" crc="163187352" seo="true" ref="about-members"/>
+    <file name="headshot_2_donoghue_geoff.jpg" crc="415495911" seo="true" ref="about-members"/>
+    <file name="pasted image 500x6254.jpg" crc="443332886" seo="true" ref="about-members"/>
+    <file name="pasted image 500x304.jpg" crc="3832651982" seo="true" ref="design-avionics:design-recovery---tracking"/>
+    <file name="pasted image 500x3042.jpg" crc="3832651982" seo="true" ref="design-payload"/>
+    <file name="pasted image 500x3043.jpg" crc="3832651982" seo="true" ref="design-aerodynamics"/>
+    <file name="pasted image 500x3044.jpg" crc="3832651982" seo="true" ref="design-structural"/>
+    <file name="pasted image 500x3045.jpg" crc="3832651982" seo="true" ref="sponsorship"/>
+    <file name="quasr wide logo 3 (no bg).jpg" crc="4160011343" seo="true" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="387545722" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="about-competitions.html" crc="269548388" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="about-members.html" crc="389808214" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="design-avionics.html" crc="3877889484" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="design-payload.html" crc="3818901000" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="design-aerodynamics.html" crc="4277339587" seo="true" mt="1446585216645" redirect="true"/>
+  <file name="design-structural.html" crc="132281118" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="sponsorship.html" crc="3884128600" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="contact.html" crc="321048875" seo="true" mt="1446585216644" redirect="true"/>
+  <file name="design-recovery---tracking.html" crc="4140335862" seo="true" mt="1446585805286" redirect="true"/>
+</manifest>
