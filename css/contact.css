@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000F;
-	background-color: #AFAB54;
+	color: #0000F1;
+	background-color: #5FD171;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 499px;
+	min-height: 498.9331016507382px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -31,27 +32,27 @@
 
 #u6308
 {
-	z-index: 15;
+	z-index: 16;
 	width: 1200px;
-	padding-bottom: 41px;
-	top: 0px;
+	padding-bottom: 49px;
+	top: -3px;
 	left: 50%;
 	margin-left: -600px;
 }
 
-#u6373-17
+#u6373-14
 {
-	z-index: 87;
+	z-index: 88;
 	width: 590px;
-	min-height: 40px;
-	top: 0px;
+	min-height: 43px;
+	top: -3px;
 	left: 50%;
 	margin-left: -600px;
 }
 
 #buttonu6349
 {
-	z-index: 26;
+	z-index: 27;
 	width: 100px;
 	top: 0px;
 	left: 50%;
@@ -74,7 +75,7 @@
 
 #u6350-4
 {
-	z-index: 27;
+	z-index: 28;
 	width: 100px;
 	min-height: 33px;
 	margin-right: -10000px;
@@ -92,7 +93,7 @@
 
 #menuu6351
 {
-	z-index: 31;
+	z-index: 32;
 	width: 130px;
 	top: 0px;
 	left: 50%;
@@ -131,7 +132,7 @@
 
 #u6356
 {
-	z-index: 38;
+	z-index: 39;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -224,7 +225,7 @@
 
 #menuu6309
 {
-	z-index: 53;
+	z-index: 54;
 	width: 130px;
 	top: 0px;
 	left: 50%;
@@ -295,7 +296,7 @@
 
 #u6313
 {
-	z-index: 60;
+	z-index: 61;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -508,7 +509,7 @@
 
 #buttonu6345
 {
-	z-index: 21;
+	z-index: 22;
 	width: 150px;
 	top: 0px;
 	left: 50%;
@@ -531,7 +532,7 @@
 
 #u6346-4
 {
-	z-index: 22;
+	z-index: 23;
 	width: 150px;
 	min-height: 33px;
 	margin-right: -10000px;
@@ -558,7 +559,7 @@
 
 #buttonu6347
 {
-	z-index: 16;
+	z-index: 17;
 	width: 100px;
 	top: 0px;
 	left: 50%;
@@ -581,7 +582,7 @@
 
 #u6348-4
 {
-	z-index: 17;
+	z-index: 18;
 	width: 100px;
 	min-height: 33px;
 	margin-right: -10000px;
@@ -608,14 +609,14 @@
 
 #u6307
 {
-	z-index: 114;
+	z-index: 102;
 	height: 1px;
 	top: 40px;
 }
 
 #u6307-bw
 {
-	z-index: 114;
+	z-index: 102;
 }
 
 #u2723-4
@@ -625,10 +626,10 @@
 	min-height: 30px;
 	border-color: #000000;
 	background-color: transparent;
+	line-height: 30px;
 	color: #000000;
 	font-size: 20px;
 	text-align: center;
-	line-height: 30px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 20px;
 	position: relative;
@@ -653,22 +654,21 @@
 	width: 1160px;
 	min-height: 30px;
 	background-color: transparent;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 20px;
 	margin-top: 12px;
 	position: relative;
 }
 
-#u6430
+#u6501
 {
 	z-index: 13;
 	width: 1160px;
 	background-color: transparent;
 	margin-left: 20px;
-	margin-top: 41px;
 	position: relative;
 }
 
@@ -677,12 +677,12 @@
 	width: 0.01px;
 	padding-bottom: 40px;
 	margin-left: -100px;
-	margin-top: -397px;
+	margin-top: -246px;
 }
 
 #u6374
 {
-	z-index: 104;
+	z-index: 15;
 	height: 40px;
 	bottom: 0px;
 }
@@ -696,32 +696,42 @@
 
 #u6374-bw
 {
-	z-index: 104;
+	z-index: 15;
+}
+
+#u6495
+{
+	z-index: 103;
+	width: 327px;
+	padding-bottom: 3px;
+	bottom: 0px;
+	left: 50%;
+	margin-left: 273px;
 }
 
 #u6375
 {
-	z-index: 105;
-	width: 289px;
+	z-index: 104;
+	width: 327px;
 	padding-bottom: 40px;
 	bottom: 0px;
 	left: 50%;
-	margin-left: 311px;
+	margin-left: 273px;
 }
 
 #u6378-4
 {
-	z-index: 108;
+	z-index: 107;
 	width: 212px;
 	min-height: 13px;
 	bottom: 9px;
 	left: 50%;
-	margin-left: 311px;
+	margin-left: 273px;
 }
 
 #u6379
 {
-	z-index: 112;
+	z-index: 111;
 	width: 34px;
 	bottom: 3px;
 	left: 50%;
@@ -730,11 +740,20 @@
 
 #u6376
 {
-	z-index: 106;
+	z-index: 105;
 	width: 40px;
 	bottom: 0px;
 	left: 50%;
 	margin-left: 560px;
+}
+
+#u6489
+{
+	z-index: 113;
+	width: 34px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 212px;
 }
 
 body
