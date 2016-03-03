@@ -1,34 +1,41 @@
-#u6373-17
+#u6373-14
 {
 	background-color: #FFFFFF;
-	font-size: 18px;
 	line-height: 29px;
+	font-size: 18px;
 	text-indent: 2px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: fixed;
 }
 
-#u6373-15
+#u6373-12
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u6373-3,#u6373-6,#u6373-9,#u6373-12
+#u6373-2
+{
+	font-size: 22px;
+	line-height: 36px;
+}
+
+#u6373-3,#u6373-6,#u6373-9
 {
 	line-height: 29px;
 }
 
-#u6373,#u6373-4,#u6373-7,#u6373-10,#u6373-13
+#u6373,#u6373-4,#u6373-7,#u6373-10
 {
-	font-size: 24px;
+	font-size: 30px;
 	color: #9D1939;
-	line-height: 39px;
+	line-height: 49px;
 }
 
-#u6373-2,#u6373-5,#u6373-8,#u6373-11,#u6373-14
+#u6373-5,#u6373-8,#u6373-11
 {
-	font-size: 19px;
-	line-height: 31px;
+	font-size: 22px;
+	color: #000000;
+	line-height: 36px;
 }
 
 #buttonu6349
@@ -56,9 +63,9 @@
 #u6350-4
 {
 	background-color: transparent;
+	line-height: 23px;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	letter-spacing: 1px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -107,10 +114,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 23px;
 	color: #000000;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
@@ -231,10 +238,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 23px;
 	color: #000000;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 }
@@ -429,9 +436,9 @@
 #u6346-4
 {
 	background-color: transparent;
+	line-height: 23px;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	letter-spacing: 1px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -460,9 +467,9 @@
 #u6348-4
 {
 	background-color: transparent;
+	line-height: 23px;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	letter-spacing: 1px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -501,7 +508,7 @@
 	background-color: #9D1939;
 }
 
-#u6308,#u6375
+#u6308,#u6495,#u6375
 {
 	border-style: none;
 	border-color: transparent;
@@ -529,5 +536,12 @@
 {
 	background-color: transparent;
 	position: fixed;
+}
+
+#u6489
+{
+	background-color: transparent;
+	border-radius: 6px;
+	position: relative;
 }
 
